@@ -1,0 +1,25 @@
+# Core CrewAI and LangChain
+crewai
+crewai-tools
+langchain
+langchain-openai==0.1.7
+langchain-groq==0.1.4
+langchain-community==0.0.38
+
+# News and Web Scraping
+requests==2.31.0
+beautifulsoup4==4.12.2
+feedparser==6.0.10
+newspaper3k==0.2.8
+
+# Data Processing
+pandas==2.0.3
+python-dotenv==1.0.0
+pyyaml==6.0.1
+
+# Optional: Local LLM support
+# ollama==0.1.7
+
+# Development
+pytest==7.4.0
+black==23.3.0
